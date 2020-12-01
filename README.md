@@ -2,11 +2,11 @@
 
 ## Screenshots
 
-![](assets/1.jpg)
+![](./1.jpg)
     <br>
     <br>
 
-![](assets/2.jpg)
+![](./2.jpg)
     <br>
     <br>
 
