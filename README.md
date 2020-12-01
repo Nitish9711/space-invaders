@@ -1,4 +1,16 @@
-# space-invaders
+# Space Invaders
+
+## Screenshots
+
+![](assets/1.jpg)
+    <br>
+    <br>
+
+![](assets/2.jpg)
+    <br>
+    <br>
+
+
 
 # To run
 1. clone the repository on your computer
@@ -6,4 +18,4 @@
 3. open command prompt and type **pip install pygame**
 4. change directory to the clonned folder
 5. type **python main.py** in your command prompt
-
+6. Enjoy
